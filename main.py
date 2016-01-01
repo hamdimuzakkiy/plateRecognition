@@ -14,9 +14,4 @@ if __name__ == '__main__':
 
     blur_gray_image = DeNoising.medianFilter(gray_image,5)
     edge_gray_image = EdgeDetection.cannyEdgeDetection(blur_gray_image)
-
-
-
-
-
-
+    Image.saveImage('new.png',edge_gray_image)
