@@ -13,16 +13,18 @@ if __name__ == '__main__':
     GetColor = pr.GetColor()
 
     File.deleteFileInFolder('result')
-    file_name = 'Screenshot_1.png'
-    image_path = 'data training/'+file_name
+    file_name = 'train2.png'
+    image_path = 'data training1/'+file_name
     print file_name
 
     image = Image.readImage(image_path)
-
     #extracting image, and put the result on result folder
     gray_image = Image.imageToGray(image)
+    Image.saveImage('gray.png',gray_image)
     blur_image = DeNoising.medianFilter(gray_image,9)
+    Image.saveImage('blur.png',blur_image)
     binary_image = Binarization.binarization(gray_image)
+    Image.saveImage('binary.png',binary_image)
     splited_image = Localization.localization(binary_image)
     for x in range(0,len(splited_image)):
         Image.saveImage('result/'+file_name+'_'+str(x)+'.png',splited_image[x])
