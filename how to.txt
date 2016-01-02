@@ -1,0 +1,5 @@
+1. run main.py
+2. untuk ganti file, ganti di variabel file_name
+3. hasil splited image ada pada variabel splited_image, diprogram di save di result ( folder result )
+4. untuk warna ada di variabel katgeori
+5. routing nya jangan diubah2

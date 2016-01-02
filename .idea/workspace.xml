@@ -2,10 +2,297 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05707bff-a3e0-4a84-a756-7a2c79809e8d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extract_training.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res.png" afterPath="$PROJECT_DIR$/res.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/preprocessing.py" afterPath="$PROJECT_DIR$/preprocessing.py" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\res.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train30.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train30.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train30.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train30.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train30.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train30.png_5.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train30.png_6.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train30.png_7.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train31.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train31.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train31.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train31.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train31.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train31.png_5.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train31.png_6.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train32.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train32.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train32.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train32.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train33.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train33.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train33.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train33.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train33.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train33.png_5.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train34.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train34.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train34.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train34.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train34.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train34.png_5.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train35.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train35.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train35.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train35.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train35.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train35.png_5.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train35.png_6.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train36.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train38.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train38.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train38.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train38.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train38.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train38.png_5.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train38.png_6.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train39.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train39.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train39.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train39.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train39.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train39.png_5.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train40.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train40.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train40.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train40.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train40.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train40.png_5.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train40.png_6.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train41.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train41.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train41.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train41.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train41.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train41.png_5.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train41.png_6.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train41.png_7.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train43.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train43.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train43.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train43.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train43.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train43.png_5.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train43.png_6.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train43.png_7.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train44.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train44.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train44.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train44.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train44.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train45.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train45.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train45.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train45.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train45.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train45.png_5.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train46.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train46.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train49.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train49.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train49.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train49.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train49.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train49.png_5.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train51.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train51.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train51.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train51.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train51.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train52.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train52.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train52.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train52.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train52.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train52.png_5.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train52.png_6.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train52.png_7.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train53.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train53.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train53.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train53.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train53.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train53.png_5.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train53.png_6.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train54.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train54.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train54.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train54.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train54.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train55.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train55.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train55.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train56.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train56.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train56.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train56.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train56.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train56.png_5.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train56.png_6.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train61.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train61.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train61.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train61.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train61.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train61.png_5.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train61.png_6.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train61.png_7.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train62.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train62.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train62.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train62.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train62.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train62.png_5.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train64.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train64.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train64.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train64.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train64.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train65.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train65.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train65.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train65.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train65.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train65.png_5.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train65.png_6.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train66.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train66.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train66.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train66.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train66.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train66.png_5.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train66.png_6.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train66.png_7.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train67.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train67.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train67.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train67.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train67.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train67.png_5.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train67.png_6.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train67.png_7.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train67.png_8.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train68.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train68.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train69.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train69.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train70.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train70.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train70.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train70.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train70.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train70.png_5.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train70.png_6.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train71.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train71.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train71.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train72.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train72.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train72.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train72.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train72.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train72.png_5.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train72.png_6.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train72.png_7.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train72.png_8.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train73.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train73.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train73.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train73.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train73.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train73.png_5.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train73.png_6.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train74.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train74.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train74.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train74.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train74.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train74.png_5.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train74.png_6.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train75.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train75.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train77.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train77.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train77.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train77.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train77.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train77.png_5.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train77.png_6.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train78.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train78.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train78.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train78.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train79.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train79.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train79.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train79.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train79.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train79.png_5.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train79.png_6.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train79.png_7.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train80.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train80.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train80.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train80.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train80.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train80.png_5.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train80.png_6.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train81.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train81.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train81.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train81.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train81.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train81.png_5.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train81.png_6.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train83.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train83.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train83.png_10.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train83.png_11.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train83.png_12.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train83.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train83.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train83.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train83.png_5.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train83.png_6.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train83.png_7.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train83.png_8.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train83.png_9.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train84.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train84.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train84.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train84.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train84.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train85.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train85.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train85.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train85.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train85.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train85.png_5.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train85.png_6.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train85.png_7.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train87.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train87.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train87.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train87.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train87.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train87.png_5.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train87.png_6.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train88.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train90.png_0.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train90.png_1.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train90.png_10.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train90.png_2.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train90.png_3.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train90.png_4.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train90.png_5.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train90.png_6.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train90.png_7.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train90.png_8.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\result\train90.png_9.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/extract_training.py" afterPath="$PROJECT_DIR$/extract_training.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="plateRecognition.iws" />
@@ -30,11 +317,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="748">
-              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+            <state vertical-scroll-proportion="0.76" vertical-offset="323" max-vertical-offset="748">
+              <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
               <folding>
                 <element signature="e#28#54#0" expanded="true" />
               </folding>
@@ -64,11 +351,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="extract_training.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="extract_training.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/extract_training.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.56" vertical-offset="187" max-vertical-offset="612">
-              <caret line="25" column="60" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="595">
+              <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
               <folding>
                 <element signature="e#28#54#0" expanded="true" />
               </folding>
@@ -90,9 +377,9 @@
         <option value="$PROJECT_DIR$/../../../../TA/firedetection/code/preprocessing.py" />
         <option value="$PROJECT_DIR$/../../../../TA/firedetection/code/_Generator_testing.py" />
         <option value="$PROJECT_DIR$/bili/getcolor.py" />
-        <option value="$PROJECT_DIR$/extract_training.py" />
         <option value="$PROJECT_DIR$/preprocessing.py" />
         <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/extract_training.py" />
       </list>
     </option>
   </component>
@@ -411,7 +698,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -420,7 +707,7 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3288889" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3288889" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -694,16 +981,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="748">
-          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
-          <folding>
-            <element signature="e#28#54#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/preprocessing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="965" max-vertical-offset="1479">
@@ -726,8 +1003,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/extract_training.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.56" vertical-offset="187" max-vertical-offset="612">
-          <caret line="25" column="60" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="170" max-vertical-offset="595">
+          <caret line="23" column="34" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
+          <folding>
+            <element signature="e#28#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.76" vertical-offset="323" max-vertical-offset="748">
+          <caret line="38" column="18" selection-start-line="38" selection-start-column="18" selection-end-line="38" selection-end-column="18" />
           <folding>
             <element signature="e#28#54#0" expanded="true" />
           </folding>

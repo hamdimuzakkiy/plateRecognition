@@ -24,7 +24,6 @@ if __name__ == '__main__':
         blur_image = DeNoising.medianFilter(gray_image,9)
 
         binary_image = Binarization.binarization(gray_image)
-        Image.saveImage('res.png',binary_image)
         start = time.time()
         splited_image = Localization.localization(binary_image)
         for x in range(0,len(splited_image)):
