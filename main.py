@@ -20,22 +20,13 @@ if __name__ == '__main__':
     image = Image.readImage(image_path)
     #extracting image, and put the result on result folder
     gray_image = Image.imageToGray(image)
-    Image.saveImage('gray.png',gray_image)
     blur_image = DeNoising.medianFilter(gray_image,9)
-    Image.saveImage('blur.png',blur_image)
     binary_image = Binarization.binarization(gray_image)
-    Image.saveImage('binary.png',binary_image)
     splited_image = Localization.localization(binary_image)
     for x in range(0,len(splited_image)):
         Image.saveImage('result/'+file_name+'_'+str(x)+'.png',splited_image[x])
 
     #get color of plate number and assign the result on kategori variable
     data_testing = GetColor.getDataTesting(image_path)
-    hitam = 'color/hitam/'
-    kuning = 'color/kuning/'
-    merah = 'color/merah/'
-
-    group,data_training = GetColor.getDatabase(hitam,kuning,merah)
-    result = GetColor.KNN(group,data_training, data_testing, 3)
-    kategori = GetColor.category(result)
+    kategori = GetColor.category(data_testing)
     print kategori
