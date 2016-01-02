@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="05707bff-a3e0-4a84-a756-7a2c79809e8d" name="Default" comment="">
-      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\data gambar\car1.jpg" afterPath="" />
-      <change type="DELETED" beforePath="F:\KULIAH\AKADEMIK\semester 7\Visikom\plateRecognition\new.png" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/extract_training.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res.png" afterPath="$PROJECT_DIR$/res.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/preprocessing.py" afterPath="$PROJECT_DIR$/preprocessing.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
@@ -33,29 +33,45 @@
       <file leaf-file-name="main.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
-              <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="748">
+              <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+              <folding>
+                <element signature="e#28#54#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="preprocessing.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="preprocessing.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/preprocessing.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.24" vertical-offset="442" max-vertical-offset="1173">
-              <caret line="57" column="21" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
-              <folding />
+            <state vertical-scroll-proportion="0.0" vertical-offset="965" max-vertical-offset="1479">
+              <caret line="117" column="57" selection-start-line="117" selection-start-column="57" selection-end-line="117" selection-end-column="57" />
+              <folding>
+                <element signature="e#28#38#0" expanded="true" />
+                <element signature="e#245#892#0" expanded="false" />
+                <element signature="e#923#1087#0" expanded="false" />
+                <element signature="e#1121#1238#0" expanded="false" />
+                <element signature="e#1273#1393#0" expanded="false" />
+                <element signature="e#1411#1749#0" expanded="false" />
+                <element signature="e#1478#1749#0" expanded="false" />
+                <element signature="e#1817#1821#0" expanded="false" />
+                <element signature="e#4241#4621#0" expanded="false" />
+                <element signature="e#4321#4553#0" expanded="false" />
+                <element signature="e#4643#6551#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FP_visikom.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../FP_K01_PlateRicognition_5112100091_5112100136_5112100172.zip/code/cgi-bin/FP_visikom.py">
+      <file leaf-file-name="extract_training.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/extract_training.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="2304" max-vertical-offset="3740">
-              <caret line="163" column="24" selection-start-line="163" selection-start-column="11" selection-end-line="163" selection-end-column="24" />
-              <folding />
+            <state vertical-scroll-proportion="0.56" vertical-offset="187" max-vertical-offset="612">
+              <caret line="25" column="60" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
+              <folding>
+                <element signature="e#28#54#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -71,6 +87,10 @@
         <option value="$PROJECT_DIR$/tmp.py" />
         <option value="$PROJECT_DIR$/xx.py" />
         <option value="$PROJECT_DIR$/main2.py" />
+        <option value="$PROJECT_DIR$/../../../../TA/firedetection/code/preprocessing.py" />
+        <option value="$PROJECT_DIR$/../../../../TA/firedetection/code/_Generator_testing.py" />
+        <option value="$PROJECT_DIR$/bili/getcolor.py" />
+        <option value="$PROJECT_DIR$/extract_training.py" />
         <option value="$PROJECT_DIR$/preprocessing.py" />
         <option value="$PROJECT_DIR$/main.py" />
       </list>
@@ -141,7 +161,7 @@
       <console-settings />
     </option>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.extract_training">
     <configuration default="false" name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -174,6 +194,63 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="plateRecognition" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="_Generator_testing" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../../TA/firedetection/code" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="plateRecognition" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../../TA/firedetection/code/_Generator_testing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="tes" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bili" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="plateRecognition" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bili/tes.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <RunnerSettings RunnerId="PythonRunner" />
+      <ConfigurationWrapper RunnerId="PythonRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="extract_training" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="plateRecognition" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/extract_training.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <RunnerSettings RunnerId="PythonRunner" />
@@ -302,14 +379,20 @@
       <option name="USE_PARAM" value="false" />
       <method />
     </configuration>
-    <list size="2">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Python.main" />
       <item index="1" class="java.lang.String" itemvalue="Python.main2" />
+      <item index="2" class="java.lang.String" itemvalue="Python._Generator_testing" />
+      <item index="3" class="java.lang.String" itemvalue="Python.tes" />
+      <item index="4" class="java.lang.String" itemvalue="Python.extract_training" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Python.main" />
-        <item index="1" class="java.lang.String" itemvalue="Python.main2" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.extract_training" />
+        <item index="1" class="java.lang.String" itemvalue="Python.main" />
+        <item index="2" class="java.lang.String" itemvalue="Python.tes" />
+        <item index="3" class="java.lang.String" itemvalue="Python._Generator_testing" />
+        <item index="4" class="java.lang.String" itemvalue="Python.main2" />
       </list>
     </recent_temporary>
   </component>
@@ -328,19 +411,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3288889" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288889" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3288889" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -348,6 +430,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288889" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -374,9 +457,115 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#28#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="98" max-vertical-offset="544">
+          <caret line="149" column="30" selection-start-line="149" selection-start-column="30" selection-end-line="149" selection-end-column="30" />
+          <folding>
+            <element signature="e#28#38#0" expanded="true" />
+            <element signature="e#245#892#0" expanded="false" />
+            <element signature="e#923#1087#0" expanded="false" />
+            <element signature="e#1121#1238#0" expanded="false" />
+            <element signature="e#1273#1393#0" expanded="false" />
+            <element signature="e#1411#1749#0" expanded="false" />
+            <element signature="e#1478#1749#0" expanded="false" />
+            <element signature="e#1817#1821#0" expanded="false" />
+            <element signature="e#4241#4621#0" expanded="false" />
+            <element signature="e#4321#4553#0" expanded="false" />
+            <element signature="e#4643#6551#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="510">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#28#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="557" max-vertical-offset="1326">
+          <caret line="89" column="68" selection-start-line="89" selection-start-column="68" selection-end-line="89" selection-end-column="68" />
+          <folding>
+            <element signature="e#28#38#0" expanded="true" />
+            <element signature="e#245#892#0" expanded="false" />
+            <element signature="e#923#1087#0" expanded="false" />
+            <element signature="e#1121#1238#0" expanded="false" />
+            <element signature="e#1273#1393#0" expanded="false" />
+            <element signature="e#1411#1749#0" expanded="false" />
+            <element signature="e#1478#1749#0" expanded="false" />
+            <element signature="e#1817#1821#0" expanded="false" />
+            <element signature="e#4241#4621#0" expanded="false" />
+            <element signature="e#4321#4553#0" expanded="false" />
+            <element signature="e#4643#6551#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../TA/firedetection/code/preprocessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6779" max-vertical-offset="8942">
+          <caret line="503" column="61" selection-start-line="503" selection-start-column="61" selection-end-line="503" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="459">
+          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="e#28#54#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/preprocessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1173">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#28#38#0" expanded="true" />
+            <element signature="e#245#892#0" expanded="false" />
+            <element signature="e#923#1087#0" expanded="false" />
+            <element signature="e#1121#1238#0" expanded="false" />
+            <element signature="e#1273#1393#0" expanded="false" />
+            <element signature="e#1411#1749#0" expanded="false" />
+            <element signature="e#1478#1749#0" expanded="false" />
+            <element signature="e#1817#1821#0" expanded="false" />
+            <element signature="e#4241#4621#0" expanded="false" />
+            <element signature="e#4321#4553#0" expanded="false" />
+            <element signature="e#4643#6551#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../FP_K01_PlateRicognition_5112100091_5112100136_5112100172.zip/code/cgi-bin/FP_visikom.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="2304" max-vertical-offset="3740">
+          <caret line="163" column="24" selection-start-line="163" selection-start-column="11" selection-end-line="163" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#28#54#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -384,7 +573,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="748" max-vertical-offset="1173">
           <caret line="57" column="13" selection-start-line="57" selection-start-column="6" selection-end-line="57" selection-end-column="13" />
-          <folding />
+          <folding>
+            <element signature="e#28#38#0" expanded="true" />
+            <element signature="e#245#892#0" expanded="false" />
+            <element signature="e#923#1087#0" expanded="false" />
+            <element signature="e#1121#1238#0" expanded="false" />
+            <element signature="e#1273#1393#0" expanded="false" />
+            <element signature="e#1411#1749#0" expanded="false" />
+            <element signature="e#1478#1749#0" expanded="false" />
+            <element signature="e#1817#1821#0" expanded="false" />
+            <element signature="e#4241#4621#0" expanded="false" />
+            <element signature="e#4321#4553#0" expanded="false" />
+            <element signature="e#4643#6551#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -392,7 +593,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+          <folding>
+            <element signature="e#28#54#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -400,7 +603,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="782">
           <caret line="39" column="37" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="37" />
-          <folding />
+          <folding>
+            <element signature="e#28#38#0" expanded="true" />
+            <element signature="e#245#892#0" expanded="false" />
+            <element signature="e#923#1087#0" expanded="false" />
+            <element signature="e#1121#1238#0" expanded="false" />
+            <element signature="e#1273#1393#0" expanded="false" />
+            <element signature="e#1411#1749#0" expanded="false" />
+            <element signature="e#1478#1749#0" expanded="false" />
+            <element signature="e#1817#1821#0" expanded="false" />
+            <element signature="e#4241#4621#0" expanded="false" />
+            <element signature="e#4321#4553#0" expanded="false" />
+            <element signature="e#4643#6551#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -408,7 +623,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="34" max-vertical-offset="476">
           <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-          <folding />
+          <folding>
+            <element signature="e#28#54#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -416,7 +633,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="51" max-vertical-offset="714">
           <caret line="3" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="36" selection-end-column="33" />
-          <folding />
+          <folding>
+            <element signature="e#28#38#0" expanded="true" />
+            <element signature="e#245#892#0" expanded="false" />
+            <element signature="e#923#1087#0" expanded="false" />
+            <element signature="e#1121#1238#0" expanded="false" />
+            <element signature="e#1273#1393#0" expanded="false" />
+            <element signature="e#1411#1749#0" expanded="false" />
+            <element signature="e#1478#1749#0" expanded="false" />
+            <element signature="e#1817#1821#0" expanded="false" />
+            <element signature="e#4241#4621#0" expanded="false" />
+            <element signature="e#4321#4553#0" expanded="false" />
+            <element signature="e#4643#6551#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -424,7 +653,9 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="238" max-vertical-offset="476">
           <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
-          <folding />
+          <folding>
+            <element signature="e#28#54#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -435,10 +666,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../../../../TA/firedetection/code/preprocessing.py">
+    <entry file="file://$PROJECT_DIR$/../../../../TA/firedetection/code/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.752366" vertical-offset="8274" max-vertical-offset="8908">
-          <caret line="126" column="52" selection-start-line="126" selection-start-column="38" selection-end-line="126" selection-end-column="52" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="1207" max-vertical-offset="1734">
+          <caret line="89" column="26" selection-start-line="89" selection-start-column="26" selection-end-line="89" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -446,28 +677,60 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="2304" max-vertical-offset="3740">
           <caret line="163" column="24" selection-start-line="163" selection-start-column="11" selection-end-line="163" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
+    <entry file="file://$PROJECT_DIR$/../../../../TA/firedetection/code/_Generator_testing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.68" vertical-offset="204" max-vertical-offset="1768">
+          <caret line="36" column="67" selection-start-line="36" selection-start-column="67" selection-end-line="36" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../../../TA/firedetection/code/preprocessing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="3.599369" vertical-offset="6218" max-vertical-offset="8942">
+          <caret line="503" column="61" selection-start-line="503" selection-start-column="61" selection-end-line="503" selection-end-column="61" />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
-          <caret line="20" column="0" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="102" max-vertical-offset="748">
+          <caret line="15" column="29" selection-start-line="15" selection-start-column="29" selection-end-line="15" selection-end-column="29" />
+          <folding>
+            <element signature="e#28#54#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/preprocessing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.24" vertical-offset="442" max-vertical-offset="1173">
-          <caret line="57" column="21" selection-start-line="57" selection-start-column="21" selection-end-line="57" selection-end-column="21" />
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="965" max-vertical-offset="1479">
+          <caret line="117" column="57" selection-start-line="117" selection-start-column="57" selection-end-line="117" selection-end-column="57" />
+          <folding>
+            <element signature="e#28#38#0" expanded="true" />
+            <element signature="e#245#892#0" expanded="false" />
+            <element signature="e#923#1087#0" expanded="false" />
+            <element signature="e#1121#1238#0" expanded="false" />
+            <element signature="e#1273#1393#0" expanded="false" />
+            <element signature="e#1411#1749#0" expanded="false" />
+            <element signature="e#1478#1749#0" expanded="false" />
+            <element signature="e#1817#1821#0" expanded="false" />
+            <element signature="e#4241#4621#0" expanded="false" />
+            <element signature="e#4321#4553#0" expanded="false" />
+            <element signature="e#4643#6551#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/extract_training.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.56" vertical-offset="187" max-vertical-offset="612">
+          <caret line="25" column="60" selection-start-line="25" selection-start-column="60" selection-end-line="25" selection-end-column="60" />
+          <folding>
+            <element signature="e#28#54#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
