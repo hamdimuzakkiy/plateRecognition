@@ -13,8 +13,8 @@ if __name__ == '__main__':
     GetColor = pr.GetColor()
 
     File.deleteFileInFolder('result')
-    file_name = 'train2.png'
-    image_path = 'data training1/'+file_name
+    file_name = 'Screenshot_2.png'
+    image_path = 'data training/'+file_name
     print file_name
 
     image = Image.readImage(image_path)
